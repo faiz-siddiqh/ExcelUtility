@@ -2,7 +2,7 @@
 
 This repo consists of excelutility files that help to read,write and update excel sheets using Apache POI.
 
-## Important Note :
+## Deprecated !!
 This repository is no longer monitored. However for ExcelUtility class checkout the testdata class in baseUtils class in core Package in Custom-Automation-Framwork repo.
 
 Add the below mentioned jar files to build path:
